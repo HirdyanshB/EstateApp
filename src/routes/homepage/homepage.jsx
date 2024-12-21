@@ -1,5 +1,5 @@
 import './homepage.scss';
-import SearchBar from '../components/searchBar/SearchBar';
+import SearchBar from '../../components/searchBar/SearchBar';
 function Homepage() {
     return (
         <div className='homepage'>
